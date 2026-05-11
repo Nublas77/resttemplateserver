@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: resttemplateserver
-          image: 210.90.24.172:8080/restproject/nublas77/resttemplateserver:fefceeb8babd94a071fd2651837b6f4ac66d0775
+          image: 210.90.24.172:8080/restproject/nublas77/resttemplateserver:a77c31712622dbc75f453bf517483b02d363664b
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
